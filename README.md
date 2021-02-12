@@ -6,4 +6,4 @@ Un semplice wrapper per l'API key di MyStudents oAuth
 MyStudents **oAuth3**
 
 [MyStudents](https://mystudents.ml/")<br>
-[MyStudents oAuth3](https://mystudents.ml/tools/oauth)
+[MyStudents oAuth3](https://mystudents.ml/tools/oauth3)
